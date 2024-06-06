@@ -45,7 +45,7 @@ search_keywords_in_pdfs <- function(pdf_folder, keywords) {
 }
 
 # Define the folder containing your PDF files
-pdf_folder <- "C:/Users/skl448/Desktop/phd/data/sagas"
+pdf_folder <- "[insert path to folder]"
 
 # Define the keywords to search for
 keywords <- c("sailcloth")
